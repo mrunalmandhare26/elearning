@@ -1,0 +1,22 @@
+{
+  "name": "elearning",
+  "version": "1.0.0",
+  "description": "Java script and express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrunalmandhare26/elearning.git"
+  },
+  "author": "Mrunal Mandhare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrunalmandhare26/elearning/issues"
+  },
+  "homepage": "https://github.com/mrunalmandhare26/elearning#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
